@@ -57,8 +57,4 @@ highest_rainfall_month = monthly_avg_max_temp.idxmax()
 lowest_rainfall_month = monthly_avg_max_temp.idxmin()
 print(f'Highest rainfall month: {highest_rainfall_month}, Lowest rainfall month: {lowest_rainfall_month}')
 
-# Step 9: Communication (Optional)
 
-# Step 10: Future Work (Optional)
-
-# Save or display the results and potentially export to a report or presentation.
